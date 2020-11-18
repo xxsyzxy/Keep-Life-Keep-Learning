@@ -1,11 +1,13 @@
 # 第一课时
 ## 1.Python的第一个输出语句
-> #!/usr/bin/Python
+> #!/usr/bin/Python   
+
 > print("Hello,world. My name is M##M!")  
 
 如果是最新的Python3.0，则使用代码：
 
 > #!/usr/bin/python3
+
 > print("Hello,my python world! M##M!")
 
 tips:关于第一行代码的解释
